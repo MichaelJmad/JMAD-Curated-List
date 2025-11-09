@@ -4,7 +4,7 @@
 **Last Updated**: November 8, 2025
 **Total Apps**: 22
 
-Official curated application list for the [JMAD Installer](https://github.com/YOUR-USERNAME/JMAD-Installer).
+Official curated application list for the [JMAD Installer](https://github.com/MichaelJmad/JMAD-Installer).
 
 ---
 
@@ -27,7 +27,7 @@ This repository hosts the official curated list of applications available in JMA
 
 The installer fetches this list from:
 ```
-https://raw.githubusercontent.com/YOUR-USERNAME/JMAD-Curated-List/main/curated-list.json
+https://raw.githubusercontent.com/MichaelJmad/JMAD-Curated-List/main/curated-list.json
 ```
 
 Configure in JMAD Installer:
@@ -38,11 +38,11 @@ Configure in JMAD Installer:
 ### Direct Download
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR-USERNAME/JMAD-Curated-List/main/curated-list.json
+curl -O https://raw.githubusercontent.com/MichaelJmad/JMAD-Curated-List/main/curated-list.json
 ```
 
 Or download manually:
-[curated-list.json](https://raw.githubusercontent.com/YOUR-USERNAME/JMAD-Curated-List/main/curated-list.json)
+[curated-list.json](https://raw.githubusercontent.com/MichaelJmad/JMAD-Curated-List/main/curated-list.json)
 
 ---
 
@@ -230,8 +230,8 @@ The applications listed are property of their respective owners and are subject 
 
 ## Support
 
-**Issues**: [GitHub Issues](https://github.com/YOUR-USERNAME/JMAD-Curated-List/issues)
-**Main Project**: [JMAD Installer](https://github.com/YOUR-USERNAME/JMAD-Installer)
+**Issues**: [GitHub Issues](https://github.com/MichaelJmad/JMAD-Curated-List/issues)
+**Main Project**: [JMAD Installer](https://github.com/MichaelJmad/JMAD-Installer)
 
 ---
 
@@ -242,5 +242,5 @@ For validation, see the JSON schema at: [schema.json](schema.json)
 ---
 
 **Maintained by**: JMAD Gaming
-**Repository**: https://github.com/YOUR-USERNAME/JMAD-Curated-List
+**Repository**: https://github.com/MichaelJmad/JMAD-Curated-List
 **License**: MIT

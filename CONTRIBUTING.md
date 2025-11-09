@@ -300,9 +300,9 @@ If you discover a broken download link:
 
 ## Questions?
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR-USERNAME/JMAD-Curated-List/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR-USERNAME/JMAD-Curated-List/discussions)
-- **Main Project**: [JMAD Installer](https://github.com/YOUR-USERNAME/JMAD-Installer)
+- **Issues**: [GitHub Issues](https://github.com/MichaelJmad/JMAD-Curated-List/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/MichaelJmad/JMAD-Curated-List/discussions)
+- **Main Project**: [JMAD Installer](https://github.com/MichaelJmad/JMAD-Installer)
 
 ---
 
