@@ -1,0 +1,25 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# OS-specific
+Thumbs.db
+desktop.ini
+
+# Test files (if any)
+test/
+tests/
+*.test.json
+
+# Build artifacts (if any)
+dist/
+build/
